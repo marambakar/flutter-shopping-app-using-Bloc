@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "657356188905",
+    "project_id": "yamammarket",
+    "storage_bucket": "yamammarket.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657356188905:android:0b50622d15bc4f9d6fd478",
+        "android_client_info": {
+          "package_name": "com.example.yamams_market"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657356188905-k8qricvtvvjqk3750166l5r9fph266d2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUvDpkkw8BtGE54sGDc5rimuIEuNGL5RI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657356188905-k8qricvtvvjqk3750166l5r9fph266d2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

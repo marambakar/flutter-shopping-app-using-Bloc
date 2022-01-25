@@ -1,0 +1,85 @@
+{
+  "New account":" حساب جديد",
+  "I need some information to start":"أحتاج بعض المعلومات للبدء",
+  "the full Name:":"الاسم الكامل",
+  "Phone Number:": "رقم الهاتف",
+  "Did you acount": "هل تملك حساب",
+  "Log in": "تسجيل الدخول",
+  "continu": "متابعة",
+  "we send the code wait for a minute": "سنرسل لك الرمز \n الرجاء الانتظار ",
+  "Please Enter Your Code:":"الرجاء ادخال رمز التحقق الخاص بك",
+  "back":"رجوع",
+  "For your security enter a password ": "من أجل الحماية\n ادخل كلمة المرور",
+  "Create Password:": "ادخال كلمة المرور ",
+  "Confirm Password:": "تأكيد كلمة المرور",
+  "finish":"انتهاء",
+  "Settings": "الاعدادات",
+  " Add a new service": "اضافة خدمة جديدة",
+  " Service Management": "ادارة الخدمات",
+  "General Settings": "الاعدادات العامة ",
+  "Alarm tone": "نغمة التنبيه",
+  "defult": "افتراضي",
+  "List of complaints submitted": "قائمة الشكاوي المقدمة",
+  "Edit profile": "تعديل البروفايل",
+  "Language settings": "إعدادات اللغة",
+  "Terms of use": "شروط الاستخدام",
+  "Privacy policy": "سياسة الخصوصية",
+  "Rate the app": "قيم التطبيق",
+  "Log out ": "تسجيل الخروج",
+  "aid": "مساعدة",
+  "About the application": "حول التطبيق",
+  "Join our team": "انضم لفريقنا",
+  "Add new service": "اضافة خدمة جديدة",
+  "Name Service Arabic": "اسم الخدمة بالعربي",
+  "Name Service English": "اسم الخدمة بالانكليزي",
+  "Detail Service Arabic": "تفاصيل الخدمة بالعربي",
+  "Detail Service English": "تفاصيل الخدمة بالانكليزي",
+  "Type Service":"نوع الخدمة",
+  "Please Enter the Type of Service":"الرجاء ادخال نوع الخدمة",
+  "Price": "السعر",
+  "S.R": "ل.س",
+  "Add Photo to Service": "اضافة صورة",
+  "Add": "إضافة",
+  "My Profile": "حسابي",
+  "Name": "الاسم",
+  "gender":"الجنس",
+  "birthday": "يوم الميلاد",
+  "Address": "العنوان",
+  "Bayment": "طرق الدفع",
+  "services": "خدماتي",
+  "Request a seller's license": "تسجيل طلب رخصة بائع في أسواق يمام",
+  "welcome": "أهلا وسهلا",
+  "First Name":"الاسم الاول",
+  "Password": "كلمة المرور",
+  "Didnt you acount?" : "ليس لديك حساب؟",
+  "New Account": "حساب جديد",
+  "invalid Name" : "الاسم غير متوفر",
+  "Name Arabic Project" : "اسم المشروع بالعربي",
+  "Name English Project" : "اسم المشروع بالأنكليزي",
+  "Description Project" : "وصف المشروع بالعربي",
+  "English Description Project" : "وصف المشروع بالإنكليزي",
+  "Acount SocialMedia" : "حسابات تواصل اجتماعي",
+  "Store Acount" : "حسابات متاجر أخرى",
+  "payment" : "تسديد",
+  "Total" : "المجموع",
+  "Everyone" : "الكل",
+  "Search" :   "البحث",
+  "Details" :  "التفاصيل",
+  "Up to" : "تصل ل"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
