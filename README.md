@@ -1,4 +1,4 @@
-# yamams_market
+# flutter-shopping-app-using-Bloc
 
 A new Flutter application.
 
